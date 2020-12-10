@@ -4,7 +4,7 @@
 
     <groupId>com.karczmarzyk</groupId>
     <artifactId>MavenTest</artifactId>
-    <version>1.7-SNAPSHOT</version>
+    <version>1.7</version>
 
 
     <properties>
@@ -28,7 +28,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:Fastus001/MavenTest.git</developerConnection>
-       <tag>MavenTest-1.6</tag>
+       <tag>MavenTest-1.7</tag>
   </scm>
 
 
