@@ -4,7 +4,7 @@
 
     <groupId>com.karczmarzyk</groupId>
     <artifactId>MavenTest</artifactId>
-    <version>1.5-SNAPSHOT</version>
+    <version>1.5</version>
 
     <properties>
         <maven.compiler.source>13</maven.compiler.source>
@@ -27,7 +27,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/Fastus001/MavenTest.git</developerConnection>
-       <tag>MavenTest-1.4</tag>
+       <tag>MavenTest-1.5</tag>
   </scm>
 
 
