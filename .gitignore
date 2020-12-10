@@ -2,7 +2,8 @@
 .idea/
 *.iml
 *.iws
-
+release.properties
+pom.xml.releaseBackup
 
 # Maven
 log/
